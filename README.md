@@ -23,3 +23,6 @@ This is a simple food delivery website.
 http://YOUR_EC2_IP
 
 ## 📸 Screenshot
+Screenshot 2026-03-20 at 18.23.44.png
+
+Screenshot 2026-03-20 at 18.04.49.png
